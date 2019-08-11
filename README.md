@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### _My first webpage, compiled as direction by the *Epicodus* Intro to Programming course materials, 08/11/2019._
+#### _My first webpage, compiled as directed by the __Epicodus__ Intro to Programming course materials, 08/11/2019._
 
 ## Description
 
