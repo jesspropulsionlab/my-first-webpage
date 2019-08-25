@@ -55,3 +55,8 @@ li {
   background-color: #E0C6AD;
   max-width: 80%;
 }
+
+.img {
+  text-align: center;
+  margin: 28px;
+}
